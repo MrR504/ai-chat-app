@@ -73,7 +73,6 @@ export default function Chat() {
 
   return (
     <div className=''>
-      <ChatsList />
       <div className='container grid box-border content-between relative'>
         <div className='p-2 mb-28 h-full'>
           <ul className=''>
